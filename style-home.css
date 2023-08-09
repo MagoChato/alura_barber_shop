@@ -1,0 +1,38 @@
+body {
+	background:
+}
+#imgbanner {
+	width: 80%;
+	height: 550px;
+	padding-left: 184px
+}
+.princ {
+	background: #CCCCCC;
+	padding: 30px;
+}
+.titulo-c {
+	text-align: center;
+}
+p {
+	text-align: center;
+}
+#missao {
+	font-size: 20px}
+strong {
+	color: green;
+}
+.espec {
+	background: #FFFFFF;
+	padding: 20px;
+}
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 24%;
+}
+.itens {
+	font-style: italic;
+}
+.imgespec {
+	width: 60%;
+}
